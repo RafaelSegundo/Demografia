@@ -1,0 +1,31 @@
+---
+title: "Resumen 1: Población y demografía"
+author: "Rafael Segundo"
+date: "10/2/2022"
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Demografía
+
+$\color{green}{Resumen}$
+
+<div style="text-align: justify">
+La demografía puede ser concebida en primera instancia como el estudio de la población, sin embargo, esta definición solo es una traducción casi fiel de su significado etimológico, y dado que este estudio expande sus horizontes a diversas temáticas es de suma importancia ahondar un poco en materia.
+
+Por lo anterior es que se requiere en un inicio definir el objeto de estudio, es decir, la población, la cual es entendida como un conjunto de individuos, constituido de forma estable, ligado por vínculos de reproducción e identificado por características territoriales, políticas, jurídicas, étnicas o religiosas; excluyendo colectividades ocasionales y transitorias que no conforman una población. Finalmente, una población se define también por la características que trazan su perfil y sus límites y es entonces cuando nos percatamos que dicho significado es bastante elástico y/o flexible.
+
+También sabemos que una población tiende a perpetuarse y a permanecer en el tiempo, pero ello no significa que sea eterna ya que las poblaciones se forman y se extinguen constantemente, siendo una de las causas de este último punto la baja natalidad en comparación con la mortalidad o porque las poblaciones llegan a fusionarse.
+
+Por lo tanto con lo anterior nos podemos percatar de los alcances que tiene el campo de la demografía y como esta se encuentra estrechamente relacionada con diversas variables que en conjunto nos dan una idea de como se comporta la población en determinado contexto.
+<div/>
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://temasdeenfermeria.com.ar/wp-content/uploads/2011/08/imagesCABZSOE8.jpg" alt="JuveYell" width="300px">
+</p>
+</div>
